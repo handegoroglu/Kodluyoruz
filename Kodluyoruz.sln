@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta2Odev3", "Hafta2Odev3\Hafta2Odev3.csproj", "{632D7B1F-A28A-490B-83CA-68EAB52491D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta1Odev1", "Hafta1Odev1\Hafta1Odev1.csproj", "{C0CD6BA4-A2D6-4D7F-9249-1EF3A2905793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{632D7B1F-A28A-490B-83CA-68EAB52491D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632D7B1F-A28A-490B-83CA-68EAB52491D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632D7B1F-A28A-490B-83CA-68EAB52491D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CD6BA4-A2D6-4D7F-9249-1EF3A2905793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CD6BA4-A2D6-4D7F-9249-1EF3A2905793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CD6BA4-A2D6-4D7F-9249-1EF3A2905793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CD6BA4-A2D6-4D7F-9249-1EF3A2905793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
